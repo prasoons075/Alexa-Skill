@@ -1,6 +1,0 @@
-<Response>
-<Say voice="alice">Thank you for using GSK services, your call will be connected soon</Say>
-<Dial record="False">
-<Conference>Full Stack Python</Conference>
-</Dial>
-</Response>
